@@ -10,7 +10,7 @@
 	
 <body>
 	<button id = "boton1"> Start Animation </button>
-	<button id = "boton2"> Stop Animation </button>
+	<button id = "boton2"> Start Animation </button>
 	<div id = "miDiv"> My Animated Div </div> 
 </body>
 		
