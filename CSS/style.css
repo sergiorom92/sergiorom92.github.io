@@ -1,0 +1,10 @@
+#miDiv {
+	height: 200 px;
+	width : 200 px;
+	border-radius: 100 px;
+	background-color: green;
+	top: 50 px;
+	position: absolute; 
+
+
+}
